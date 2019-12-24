@@ -1,3 +1,4 @@
+config_override: config.yaml
 dataset:
   name: imagenet
   path: /datasets/imagenet
